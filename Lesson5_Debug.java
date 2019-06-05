@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 /// Lesson5. Debug
+/// this is sample.
 public class Lesson5_Debug
 {
     public static void main(String[] arg)
